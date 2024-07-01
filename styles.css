@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+h1{
+	text-align:center;
+}
+summary{
+	font-weight:bold;
+}
